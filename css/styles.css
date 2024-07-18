@@ -2,74 +2,56 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.roboto-thin {
-  font-family: "Roboto", sans-serif;
-  font-weight: 100;
-  font-style: normal;
+.top-line {
+  width: 1440px;
+  height: 72px;
 }
 
-.roboto-light {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-style: normal;
+.top-line-conteiner {
+  height: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
-.roboto-regular {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+.hero-image {
+  width: 1440px;
+  height: 600px;
+  background: #2e2f42;
 }
 
-.roboto-medium {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-style: normal;
+.hero-image-container {
+  width: 496px;
+  height: 120px;
+  text-align: center;
+  color: #fff;
+  padding-top: 188px;
+  padding-bottom: 292px;
+  padding-left: 472px;
+  padding-right: 472px;
 }
 
-.roboto-bold {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-style: normal;
+.section-1 {
+  width: 1128px;
+  height: 104px;
 }
 
-.roboto-black {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
-  font-style: normal;
+.section-2 {
+  width: 1440px;
+  height: 732px;
 }
 
-.roboto-thin-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 100;
-  font-style: italic;
+.footer {
+  width: 1440px;
+  height: 312px;
+  background: #2e2f42;
 }
 
-.roboto-light-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-style: italic;
-}
-
-.roboto-regular-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.roboto-medium-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-style: italic;
-}
-
-.roboto-bold-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-style: italic;
-}
-
-.roboto-black-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
-  font-style: italic;
+.footer-container {
+  width: 264px;
+  height: 112px;
+  color: #f4f4fd;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 156px;
+  padding-right: 1020px;
 }
